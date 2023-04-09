@@ -2,7 +2,7 @@
 Software e database di gestione magazzino del negozio Sereno Giocattoli di Biella.
 Sviluppato amatorialmente in FoxPro da mio papà Massimo Bindi, a partire dal 1990.
 
-Utlizzato in negozio fino per circa 30 anni.
+Utlizzato in negozio per circa 30 anni.
 
 
 
