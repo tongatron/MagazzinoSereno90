@@ -1,0 +1,75 @@
+/Users/giovannibindi/Documents/GitHub/tongatron.github.io/timesheet/app.js:6: // Imposta la data odierna come predefinita
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Carcat.prg:37: *SET ORDER TO 1
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VCntord.prg:1: *  FILE NAME: CNTORD.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VCntord.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VCntord.prg:3: *** CNTORD ***
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VCntord.prg:16: *GIACONT,PROGCAR,PROGSCA,GIADIN,ORDINE
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:1: *  FILE NAME: RICERCA.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:3: *  DATE: February 2, 1992
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:4: *  DESC:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:5: *  CALLED BY:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:6: *  DATA FILES:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/RICEinv.prg:14: *** RICERCA ***
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/vordold.prg:1: *  FILE NAME: ORDINE.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/vordold.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/vordold.prg:3: *  DESC:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/vordold.prg:4: *  CALLED BY:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/vordold.prg:5: *  DATA FILES:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/vordold.prg:6: *** ORDINE ***
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:1: * FILE NAME: ALESTP.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:3: *  DATE: February 2, 1992
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:4: *  DESC:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:5: *  CALLED BY:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:6: *  DATA FILES:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/ALESTP.prg:34: *zap
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VValord.prg:1: *  FILE NAME: VALORD.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VValord.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VValord.prg:3: *** VALORD ***
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VValord.prg:15: *brow WIDT 16 fiel COD_PD,DESCRIZ ,COSTO,;
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VValord.prg:16: *GIACONT,PROGCAR,PROGSCA,GIADIN,ORDINE FREE ORDINE
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VOrdine.prg:1: *  FILE NAME: ORDINE.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VOrdine.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VOrdine.prg:3: *  DESC:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VOrdine.prg:4: *  CALLED BY:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VOrdine.prg:5: *  DATA FILES:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VOrdine.prg:6: *** ORDINE ***
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VMenord.prg:1: *  FILE NAME: MENORD.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VMenord.prg:2: *  BY: MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/VMenord.prg:3: *** MENORD ***
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:1: *:*****************************************************************************
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:2: *:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:3: *: Procedure file: C:\FOX\BARP.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:4: *:         System: Magazzino
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:5: *:         Author: Massimo Bindi
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:6: *:      Copyright (c) 16/0393, max & sandro
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:7: *:  Last modified: 12/02/93 at 13:47:02
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:8: *:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:9: *:         Set by: ETICH1.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:10: *:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:11: *:           Uses: ETICH.DBF
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:12: *:               : ETISP.DBF
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:13: *:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:14: *:    Label Forms: EUROAD.LBX
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:15: *:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:16: *:   Binary Files: DBARCODE
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:17: *:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:18: *:      Documented 13:41:51                                FoxDoc version 3.00a
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:19: *:*****************************************************************************
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:20: *  FILE NAME: BARP.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:21: *  BY: SANDRO VINCIGUERRA & MASSIMO BINDI
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:22: *  DATE: February 11, 1993
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:23: *  DESC:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:24: *  CALLED BY:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:25: *  DATA FILES:
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:26: *BARP.PRG
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:69: *stringa per dbarcode
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:71: *variabile per numero passate
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:73: *STOR '1' TO pas
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:74: *stringa per space
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:76: *
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:101: *DO PRBCODE
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:125: *PROCEDURE PRBCODE
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:126: *Formatted by: dANALYST Ver. 5.7, on February 11, 1993.
+/Users/giovannibindi/Documents/GitHub/MagazzinoSereno90/FOX/Barp2.prg:127: *: EOF: BARP.PRG
