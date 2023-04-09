@@ -1,5 +1,8 @@
 # MagazzinoSereno90
 Software e database di gestione magazzino del negozio Sereno Giocattoli di Biella.
+
+https://www.serenogiocattoli.it
+
 Sviluppato amatorialmente in FoxPro da mio papà Massimo Bindi, a partire dal 1990.
 
 Utlizzato in negozio per circa 30 anni.
