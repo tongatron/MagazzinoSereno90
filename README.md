@@ -14,9 +14,7 @@ V2 test: cerca anche le parole chiave
 
 
 
-
-
-# Gestione Magazzino per Negozio di Giocattoli
+# Gestione magazzino per negozio di giocattoli
 
 Questo repository contiene il software di gestione magazzino per un negozio di giocattoli, sviluppato originariamente da mio padre a partire 1991. Ha sviluppato questo software in ForPro nel 1990 per gestire il magazzino del suo negozio di giocattoli.
 
@@ -37,7 +35,5 @@ Poiché il software è stato sviluppato originariamente nel 1990, potrebbe esser
 
 ## Licenza
 
-Questo progetto è distribuito sotto la licenza [INSERISCI IL NOME DELLA LICENZA]. Si prega di consultare il file LICENSE per maggiori informazioni.
-
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/>Quest'opera è distribuita con Licenza:
+ <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.
