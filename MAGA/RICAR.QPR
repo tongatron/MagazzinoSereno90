@@ -1,0 +1,9 @@
+SELECT Arkivio.codice, Arkivio.prd, Arkivio.cod_pd, Arkivio.descriz,;
+  Arkivio.costo, Arkivio.cost_med, COST_MED * 1.19, Arkivio.prezzo_1,;
+  PREZZO_1 / COSTO, Arkivio.giacont, Arkivio.progcar, Arkivio.progsca,;
+  Arkivio.giadin;
+ FROM Arkivio;
+ WHERE Arkivio.giadin > 1;
+   AND PREZZO_1 / COSTO > 1.8;
+   AND Arkivio.prd = "PRE";
+ ORDER BY Arkivio.prd, Arkivio.cod_pd

@@ -1,0 +1,26 @@
+
+        PAGE NO.     1   
+        07/11/2007       
+                          ORDINE DA CONFERIRE ALLA DITTA LEGO
+                                   DA :SERENO BIELLA
+
+        ARTICOLO     DESCRIZIONE                         PEZZI
+
+
+        2242         CNF.MATTONCINI                         12
+        3771         IL MIO PRIMO TRENINO                    2
+        4781         CNF.300 MATTONCINI LEGO                 8
+        4891         TIR TRASPORTO VEICOLI                   5
+        4893         MOTO                                    6
+        5417         CONTE.DUPLO GR.                         4
+        5480         COSTR.DUPLO CITTA'                      4
+        5481         VASCHET.DUPLO MAXI ZOO                  4
+        6205         V WING FISHTER                          6
+        6211         IMPERIAL STAR DESTROYER                 3
+        7237         STAZIONE DI POLIZIA                     2
+        7238         ELICOTTERO ANTINCENDIO                  8
+        7893         AEREO PASSEGGERI                        4
+        7903         ELICOTTERO DI SALVATAGGIO               4
+        8139         NIGHT BLAZER                            6
+        8673         FERRARI F1 FUEL STOP                    5
+

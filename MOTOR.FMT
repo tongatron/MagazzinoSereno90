@@ -1,0 +1,7 @@
+*** MOTOR ***
+@ 0,0 CLEAR
+@ 1,0 SAY "Ú"+REPLICATE("Ä",78)+"¿"
+@ 2,0 SAY "³  MOTOR RALLY SERVICE    GESTIONE LAVORI AUTOMEZZI              DATA          ³"
+@ 3,0 SAY "À"+REPLICATE("Ä",78)+"Ù"
+@ 2,70 SAY DATE()
+*** FINE MOTOR ***

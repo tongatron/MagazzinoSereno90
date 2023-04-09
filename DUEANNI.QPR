@@ -1,0 +1,9 @@
+SELECT Arkivio.prd, Arkivio.cod_pd, Arkivio.descriz, Arkivio.costo,;
+  Arkivold.giacont, Arkivold.progcar, Arkivold.progsca, Arkivio.giacont,;
+  Arkivio.progcar, Arkivio.progsca, Arkivio.giadin, Arkivold.dst,;
+  Arkivio.prezzo_1, Arkivio.ultven, Arkivio.ultcar, Arkivio.codice;
+ FROM Arkivio, Arkivold;
+ WHERE Arkivold.codistr = Arkivio.codistr;
+   AND Arkivio.prd = "GIG";
+ ORDER BY Arkivio.prd, Arkivio.cod_pd;
+ INTO TABLE \fox\maga\gig.dbf

@@ -1,0 +1,7 @@
+SELECT Arkivio.codice, Arkivio.prd, Arkivio.cod_pd, Arkivio.descriz,;
+  Arkivio.costo, Arkivio.giacont, Arkivio.progsca, Arkivio.progcar,;
+  Arkivio.giadin, Arkivio.ultcar, Arkivio.ultven;
+ FROM Arkivio;
+ WHERE Arkivio.progsca > 0;
+   AND Arkivio.progcar = 0;
+   AND Arkivio.costo > 30000

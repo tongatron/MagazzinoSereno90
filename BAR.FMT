@@ -1,0 +1,6 @@
+*** CBAR ***
+@ 0,0 CLEAR
+@ 1,24 SAY "É"+REPLICATE("Í",25)+"»"
+@ 2,24 SAY "º  STAMPA CODICI A BARRE  º"
+@ 3,24 SAY "È"+REPLICATE("Í",25)+"¼"
+*** FINE CBAR ***

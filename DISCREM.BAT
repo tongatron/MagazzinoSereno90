@@ -1,0 +1,10 @@
+PKZIP E:\MAGC -esf E:\FOX\MAGA\*.*
+pkzip E:\magc.zip -v
+COPY E:\MAGC.ZIP H:\
+E:\FOX\MFOXPLUS PALM02
+E:\FOX\CONVERT4 E:\FOX\PALM02.DBF E:\FOX\PALM02.CSV
+REM DBTAB.EXE  PALM02.DBF PALM02.CSV
+c:\pkzip c:\windows\desktop\palm02  E:\fox\palm02.csv
+COPY C:\\WINDOWS\DESKTOP\PALM02.ZIP H:\
+
+

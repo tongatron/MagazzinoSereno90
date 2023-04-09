@@ -1,0 +1,77 @@
+
+
+                          The RunBase Utilities
+
+                               Version 1.4
+
+              (C) Copyright 1991, 1992 All rights reserved.
+
+
+                    RunBase (!BASE) is Copyrighted by:
+
+                           Cynthia L. Allingham
+                         16411 McFadden Ave. #320
+                             Tustin, Ca 92680
+                              (714) 543-4241
+
+
+
+    What are the RunBase Utilities?
+    ================================================================
+    RunBase consists of 6 handy command line utilities for all dBase
+    III, Clipper, and FoxPro programmers.  All of the RunBase
+    utilities are small, fast, support redirection, and full path
+    expansion.
+
+    !APPEND:  Super Sonic Append SDF.  This utility appends records
+              10x faster than the APPEND SDF command in FoxPro or
+              Clipper.
+
+    !COMP  :  A structure comparison utility.  It compares the
+              file structure of any two DBF files, and flags the
+              differences.
+
+    !DIR   :  Directory of DBF files.  This utility displays the
+              number of records in each database.
+
+    !INDEX :  Directory of INDEX files.  This utility displays the
+              index expression of NDX and NTX files.
+
+    !STRUCT:  Displays the structure of DBF files.  The structure
+              utility has 3 optional parameters for Clipper
+              programmers:
+
+              -a  Create database structure arrays for use with
+                  DBCREATE()
+
+              -f  Create field name declarations
+
+              -n  Create field number define statements for use in
+                  header files
+
+    !ZAP   :  dBase file zapping utility.  Allows files to be
+              quickly cut down in size.  It has a couple of
+              optional parameters:
+
+              -Sn Save first <n> records and zap the rest
+
+              -Y  Yes, automatically bypass the safety prompt and
+                  zap
+
+
+
+    Cynthia Allingham Software Services
+    ================================================================
+    I am a professional programmer located in Tustin California,
+    specializing in developing business applications in Clipper and
+    C++.
+
+    I wrote the RunBase utilities because there aren't very many
+    good utilities to available for use with dBase files.  I made
+    the RunBase utilities free and kept its size small, so that you
+    can easily and legally install a copy of these handy utilities
+    on your clients hard disk.
+
+    While the RunBase utilities are free, I do appreciate hearing
+    about them from the users.  If you have comments, suggestions,
+    or are interested in my other products; please contact me.

@@ -1,0 +1,7 @@
+*** MASCH1 ***
+@ 0,0 CLEAR
+@ 4,7 SAY "Ú"+REPLICATE("Ä",40)+"¿"
+@ 5,7 SAY "³"
+@ 5,48 SAY "³"
+@ 6,7 SAY "À"+REPLICATE("Ä",40)+"Ù"
+*** FINE MASCH1 ***

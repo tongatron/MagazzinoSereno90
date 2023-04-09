@@ -1,0 +1,48 @@
+
+        PAGE NO.     1   
+        12/09/2007       
+                          ORDINE DA CONFERIRE ALLA DITTA LEGO
+                                   DA :SERENO BIELLA
+
+        ARTICOLO     DESCRIZIONE                         PEZZI
+
+
+        1208-026     BASSET HOUND                            4
+        1212-014     HUSKY                                   4
+        1212-038     HUSKY                                   2
+        1370-036     MORBIDONE CONIGLIO VIRGILIO             4
+        1370-052     MORBIDONE CONIGLIO VIRGILIO             1
+        1380-026     CONIGLIO                                4
+        1396-014     COCCINELLA                              4
+        1656-060     FOCA LUCY                               1
+        2068-018     GATTO REGINA GRIGIO                     2
+        2230-046     LABRADOR NAPOLEON                       1
+        2375-024     CONGILIO VIRGILIO                       4
+        2375-036     CONGILIO VIRGILIO AVORIO                4
+        2377-024     CONIGLIO VIRGILIO BEIGE                 6
+        2377-036     CONIGLIO VIRGILIO BEIGE                 2
+        2411-021     RICCIO NO                               2
+        2411-028     RICCIO NO                               1
+        2426-020     VOLPE DANA                              2
+        2470-019     CERBIATTO AMANDA                        2
+        2470-030     CERBIATTO AMANDA                        1
+        2523-020     ORSO KRAPFEN BEIGE                      2
+        2561-035     ORSO ETTORE                             2
+        2561-057     ORSO ETTORE                             1
+        2651-018     PANDA KEVIN SED.                        2
+        2651-030     PANDA KEVIN                             1
+        2713-021     IPPOPOTAMO PAMELA                       2
+        2713-028     IPPOPOTAMO PAMELA                       1
+        2745-018     LEMURE ATTILA                           2
+        2756-019     PANTERA IRIS                            2
+        2756-046     PANTERA IRIS                            1
+        2761-021     LEOPARDO ACHILLE                        2
+        2775-018     KOALA JAMIN                             2
+        2775-025     KOALA JAMIN                             1
+        2776-020     SERPENTE GEDEONE                        2
+        2801-001     ORSETTO ROSA                            2
+        2801-002     ORSETTO ROSA                            1
+        2801-003     CARILLON ROSA                           2
+        2802-001     ORSETTO AZZURRO                         2
+        2802-002     ORSETTO AZZURRO                         1
+

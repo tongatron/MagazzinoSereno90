@@ -1,0 +1,11 @@
+@  1,  3  SAY "CALCOLO VALORI INVENTARIO-ACQUISTI-TOTALE-VENDUTO-RIMANENZE SU INVENTARI"
+@  4, 22  SAY "VUOI USARE IL MAGAZZINO DELL'ANNO"
+@  5, 22  SAY "---------------------------------"
+@  7, 11  SAY "IN CORSO                              PRECEDENTE"
+@ 12, 23  SAY "INTRODUCI IL NOME DELLA DITTA"
+@ 16, 36  GET  ETICH->CODICE
+@  0,  1  TO  2, 77    DOUBLE
+@  6,  8  TO  8, 21  
+@  6, 47  TO  8, 60  
+@ 11, 22  TO 13, 53  
+

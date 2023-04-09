@@ -1,0 +1,39 @@
+
+        PAGE NO.     1   
+        09/12/2007       
+                          ORDINE DA CONFERIRE ALLA DITTA LEGO
+                                   DA :SERENO BIELLA
+
+        ARTICOLO     DESCRIZIONE                         PEZZI
+
+
+        2053         ERPICE A DISCHI                         1
+        2101         AUTOMEZZO VIGILI DEL FUOCO              1
+        2106         AUTOSCALA POMPIERI                      1
+        2268         IMBALLATRICE CLAAS                      1
+        2451         RASTRELLO ROTANTE                       1
+        2931         FAUN CAMION RIFIUTI                     1
+        2937         CAMION RIFIUTI                          2
+        3058         TRATTORE SAME IRON 110                  2
+        3112         GB CAMION TRASPORTO                     1
+        3132         MACCHINA STRAD.FRANTUMATRICE            1
+        3155         CAMION FORESTALE                        1
+        3260         TRATTORE SAME DIAMOND                   1
+        3434         SPALATRICE GOMMATA                      1
+        3521         SCAVATRICE                              2
+        3527         ESCAVATORE SU RUOTE                     2
+        3529         SCAVATRICE KRAMER 480                   2
+        3531         SCAVATORE DOPPIA PALA                   2
+        3534         MB CAMION C/BRACCIO GRU                 1
+        3736         BUS A SOFFIETTO                         1
+        3920         CAMION C/ESCAVATORE CINGOLATO           1
+        3930         AUTOMEZZO TRASP.ECCEZZIONALE            1
+        3933         CAMION SCANIE R620 CON CA.              1
+        3522         CAMION                                  1
+        2105         CAMION POMPIERI AEROPORTO               1
+        3932         CAMION TELONATO                         1
+        3730         CAMION MAX GOLL                         1
+        3857         TRATTORE FENDT XYLON                    1
+        2866         RIMORCHIO CLAAS                         1
+        2270         SPARGICONCIME                           1
+

@@ -1,0 +1,6 @@
+SELECT Arkivio.codice, Arkivio.prd, Arkivio.cat, Arkivio.cod_pd,;
+  Arkivio.descriz, Arkivio.costo, Arkivio.prezzo_1, Arkivio.giacont,;
+  Arkivio.progcar, Arkivio.progsca, Arkivio.giadin;
+ FROM Arkivio;
+ WHERE Arkivio.prd = "TRU";
+ ORDER BY Arkivio.cod_pd

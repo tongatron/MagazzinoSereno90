@@ -1,0 +1,7 @@
+SELECT *;
+ FROM Scarichi;
+ WHERE Scarichi.data BETWEEN CTOD("23/04/95") AND CTOD("01/05/95");
+   AND Scarichi.prd = "FIS";
+   OR (Scarichi.data BETWEEN CTOD("23/04/95") AND CTOD("01/05/95");
+   AND Scarichi.prd = "MAT");
+ ORDER BY Scarichi.codistr

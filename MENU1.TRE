@@ -1,0 +1,33 @@
+TREE FILE FOR MENU1.PRG
+
+  0 MENU1
+  1    CARICA
+  1    FINEG1
+  2       FINEGEST
+  3          UPDATOLD
+  1    INSERPRO
+  1    AGESIST
+  2       AGVALOR
+  1    UPDATPRO
+  1    UPDATCA
+  1    INSERFOR
+  1    UPDATFOR
+  1    SCARICA
+  1    SOTTSC
+  2       ARKTOT
+  2       UPDATOLD
+  1    PRELISTA
+  2       LISTA1
+  2       MAXLISTA
+  1    LISTA2
+  2       CARSCE
+  3          CARNEW
+  3          CARNEW2
+  3          CARNEW3
+  1    LISTA3
+  1    LISTA5
+  2       SCTOT
+  1    OPMAGA
+  1    SANDRO
+  1    DITTA
+

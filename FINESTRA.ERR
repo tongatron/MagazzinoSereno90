@@ -1,0 +1,2 @@
+DEFINE WINDOWS PIPPO  *FROM 1,1 TO 24,75  IN DESKTOP  PANEL GROW CLOSE FLOAT
+Errore alla linea 4: Frase o parola chiave non riconosciuta nel comando.

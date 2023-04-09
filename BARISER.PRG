@@ -1,0 +1,93 @@
+*  FILE NAME: BARP.PRG
+*  BY: SANDRO VINCIGUERRA & MASSIMO BINDI
+*  DATE: February 11, 1993
+*  DESC:
+*  CALLED BY:
+*  DATA FILES:
+*BARP.PRG 
+USE ETICH
+PACK 
+*GO TOP 
+*DO WHIL .NOT.EOF()
+*   IF QUANTITA =1
+*      SKIP 
+*      LOOP 
+*   ENDI 
+*   STOR QUANTITA -1 TO IO
+*   STOR 0 TO XCONT
+*   *IF XCONT # IO
+*   DO WHIL XCONT < IO
+*      STOR Codice TO Xcod
+*      STOR Prezzo_1 TO Xprez
+*      STOR Codistr TO Xcdis
+*      STOR DESCRIZ TO XDESC
+*      INSE BLAN 
+*      REPL Codice WITH Xcod,prezzo_1 WITH Xprez,codistr WITH Xcdis
+*      REPL DESCRIZ WITH XDESC
+*      STOR XCONT+1 TO XCONT
+*   ENDD 
+*   SKIP 
+*ENDD 
+USE ETISP
+LABE FORM EUROAD SAMP TO PRIN 
+CLEA 
+CLOS ALL 
+LOAD DBARCODE
+*stringa per dbarcode
+STOR "142331122000" TO SPEC
+*variabile per numero passate
+STOR '0' TO PAS
+*stringa per space 
+STOR CHR(25) TO SPAZ
+*
+USE ETICH
+GO TOP 
+DO WHIL .NOT. EOF()
+   R1='L.'+STR(PREZZO_1,8)+SPAC(9)
+   R2=SUBS(DESCRIZ,1,25)+SPAC(9)
+   R3= CODISTR + ' '+ CODICE +SPAC(13)
+   DESC =CODICE
+   SKIP 
+   IF EOF()
+      LOOP 
+   ENDI 
+   R1=R1+'L.'+STR(PREZZO_1,8)+SPAC(9)
+   R2=R2+SUBS(DESCRIZ,1,25)+SPAC(9)
+   R3=R3+CODISTR+' '+CODICE+SPAC(13)
+   DESC =DESC +CODICE
+   SKIP 
+   IF EOF()
+      LOOP 
+   ENDI 
+   R1=R1+'L.'+STR(PREZZO_1,8)
+   R2=R2+SUBS(DESCRIZ,1,25)
+   R3=R3+CODISTR+' '+CODICE
+   DESC =DESC +CODICE
+   SKIP 
+   *DO PRBCODE
+   SET DEVI TO PRIN 
+   ROW = PROW()
+   @ ROW+1,2 SAY '  '+ CHR(27)+CHR(69)+R1+CHR(27)+CHR(70)
+   @ ROW+2,2 SAY CHR(15)+R2
+   @ ROW+3,2 SAY '  '+ R3
+   @ ROW+3,1 SAY CHR(10)
+   CALL DBARCODE WITH SPEC+PAS+SPAZ+'0\'+DESC 
+   SET DEVI TO SCRE 
+   DESC ='XxXx'
+ENDD 
+IF DESC # 'XxXx'
+   
+   SET DEVI TO PRIN 
+   ROW = PROW()
+   @ ROW+1,2 SAY '  '+ CHR(27)+CHR(69)+R1+CHR(27)+CHR(70)
+   @ ROW+2,2 SAY CHR(15)+R2
+   @ ROW+3,2 SAY '  '+ R3
+   @ ROW+3,1 SAY CHR(10)
+   CALL DBARCODE WITH SPEC+PAS+SPAZ+'0\'+DESC 
+   SET DEVI TO SCRE 
+ENDI 
+ZAP 
+RETU 
+*PROCEDURE PRBCODE
+*Formatted by: dANALYST Ver. 5.7, on February 11, 1993.
+

@@ -1,0 +1,57 @@
+dBARCODE Version 1.43 Notes
+
+Provided with dBARCODE are two sample programs, DEMO.PRG and BARPRINT.PRG.
+Examples of all the capablities of dBARCODE are found in DEMO.PRG.
+
+The LINES values is the total movement of the printer in sixths of an inch.
+When two barcodes are printed one above the other, this is the distance
+from the top of the first bar code to the top of the second bar code.
+When printing on 1 inch labels, the LINES value should be set
+to 6 ( 6 * 1/6" = 1" ).
+
+                                              ______
+                  ÝÞÞÝÛÞÞÝÝÛ ÝÝÝÞÝÛÞÞÞ ÝÛÞÝÝ        |
+                                                    |---- LINES value
+                                              ______|     in 1/6 of an inch
+                  ÝÞÞÝÛÞÞÝÝÛ ÝÝÝÞÝÛÞÞÞ ÝÛÞÝÝ
+
+
+Please also note that to print multi-column bar codes with direct calls
+to dBARCODE, the bar codes are sent together as one string.  The FORMAT
+character is the number of digits in each bar code.
+
+   CALL dBARCODE WITH "0330201220\OCTNOVDEC"
+                        ³³
+                        ³³
+              FORMATÄÄÄÄÙÀÄÄÄÄLINES
+
+In this example the FORMAT is 3, so dBARCODE will print as many 3 digit
+bar codes as the string allows.  This call will print 3 bar codes, each 3
+digits long, OCT, NOV and DEC.  Important values to know here also are
+MARGIN and SPACER.
+
+
+            ÝÞÞÝÛÞ ÝÛÞÝÝ     ÝÞÞÝÛÞ ÝÛÞÝÝ     ÝÞÞÝÛÞ ÝÛÞÝÝ
+           ³            ³   ³            ³   ³
+           ³            ³   ³            ³   ³
+ÄÄMARGINÄÄÄÙ            SPACER           SPACER
+
+Also, see the example on the top of page 8 in the manual.
+
+----------------------------------------------------------------------------
+
+                 CORRECTIONS TO THE MANUAL:
+
+Page 8:
+          CALL dBARCODE with STRING
+
+          Where: STRING = SPECS + "\" + CODE + "\" + DESCR
+
+     ( the second + is missing in the manual )
+
+
+Page 19:
+          STRING = SPECS + "\" + CODE + "\" + DESCR
+          CALL dBARCODE with STRING
+
+      ( the third + is missing in the manual )

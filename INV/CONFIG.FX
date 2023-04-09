@@ -1,0 +1,4 @@
+PATH=E:\FOX\INV
+F9="quit"
+SCORE=OFF
+DEFA=E:\FOX\INV

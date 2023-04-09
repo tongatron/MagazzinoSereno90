@@ -1,0 +1,8 @@
+* ARKIVIO PRODOTTI MATTEL
+SELECT Arkivio.codice, Arkivio.cod_pd, Arkivio.descriz, Arkivio.costo,;
+  Arkivio.prezzo_1, 100-(costo/prezzo_1*100), Arkivio.giacont,;
+  Arkivio.progcar, Arkivio.progsca, Arkivio.giadin, Arkivio.carvalor,;
+  Arkivio.dst, Arkivio.cat, Arkivio.ultcar, Arkivio.ultven;
+ FROM Arkivio;
+ WHERE Arkivio.prd = "PLS";
+ ORDER BY Arkivio.cod_pd

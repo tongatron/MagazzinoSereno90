@@ -1,0 +1,8 @@
+*** ULTV ***
+@ 0,0 CLEAR
+@ 2,38 SAY "É"+REPLICATE("Í",30)+"»"
+@ 3,38 SAY "º"
+@ 3,69 SAY "º"
+@ 4,38 SAY "È"+REPLICATE("Í",30)+"¼"
+@ 3,41 SAY PIPPA
+*** FINE ULTV ***

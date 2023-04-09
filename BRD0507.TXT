@@ -1,0 +1,39 @@
+
+        PAGE NO.     1   
+        23/05/2007       
+                          ORDINE DA CONFERIRE ALLA DITTA LEGO
+                                   DA :SERENO BIELLA
+
+        ARTICOLO     DESCRIZIONE                         PEZZI
+
+
+        20000        CAMION C/RIBLTABILE                     4
+        20102        TRATTORE P.I.                           8
+        20105        TRATT.P.I.C/BENNA E SCAV.               8
+        2040         TARTTORE MASSEY FERGUSON                4
+        2042         TRATTORE MASSEY FERGUSON                4
+        2068         TRATTORE FENDT 926 VARIO C/RIM.RIB.     4
+        2088         TRATTORE STEYR CVT70 C/RIM.TRONCHI      4
+        2421         SCAVATRICE PER CANTIERI STRADALI        4
+        2431         CATERPILLAR C/BENNA                     6
+        2438         CATERPILLAR SCAVATRICE                  4
+        2441         CATERPILLAR MOV.TERRA                   8
+        2443         RUSPA CAT TRACTOR                       8
+        2445         RUSPA CAT                               8
+        2510         MULETTO TRASP.BANCALI                   4
+        2511         MULETTO ROSSO C/BANCALI                 6
+        2530         FURGONE MERCEDES SPRINTER               4
+        2650         CAMION RIBALT.ACTROSS MERCEDES          2
+        2658         CAMION C/BULDOZER                       2
+        2749         MAN TRASPORTO BESTIAME C/1 MUCCA        4
+        2754         AUTOGRU MAN                             4
+        2765         CAMION MAN LKW                          4
+        2769         CAMION TRASP.TRONCHI C/GRU              4
+        2782         CAMION MAN BLU CON MULETTO POSTER.      2
+        2783         CAMION MAN LKW DHL                      2
+        2813         CAMION MAN C/TRASPORTO RUSPA            2
+        2922         FURGONE MERCEDES SPRINTER C/RUSPA       4
+        3031         TRATTORE JCB 3220 CON PALA ANTER.       4
+        3301         SET RUOTE X TRATTORE                    4
+        2026         SEMINATORE                              4
+

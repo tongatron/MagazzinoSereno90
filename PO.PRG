@@ -1,0 +1,6 @@
+*** POPPO ***
+@ 0,0 CLEAR
+@ 4,1 SAY "INTRODUCI DATO :"
+@ 4,17 SAY 'AZZO'
+** FINE POPPO ***
+

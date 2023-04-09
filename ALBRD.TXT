@@ -1,0 +1,41 @@
+
+        PAGE NO.     1   
+        16/12/2006       
+                          ORDINE DA CONFERIRE ALLA DITTA LEGO
+                                   DA :SERENO BIELLA
+
+        ARTICOLO     DESCRIZIONE                         PEZZI
+
+
+        2045         TRATTORE MAS.FERG.C/RIMORCHIO           1
+        2080         TRATTORE                                1
+        2420         SCAVATRICE                              1
+        2421         SCAVATRICE PER CANTIERI STRADALI        2
+        2422         BULLDOZER CATERPILLAR                   1
+        2423         SCHIACCIASASSI                          1
+        2425         PALA MECCANICA                          1
+        2426         DRAGA                                   2
+        2430         TRATTORE C/BENNA                        1
+        2431         CATERPILLAR C/BENNA                     2
+        2432         MINI ESCAVATORE SCHAEFF                 2
+        2433         CAT TANDEM COMPRESSORE                  2
+        2510         MULETTO TRASP.BANCALI                   1
+        2572         M.B.UNIMOG SERVIZIO INVER.C/PALA N      2
+        2655         MB ACTROS C/SCAV.JCB 4CX BACK.          1
+        2657         MB ACTROSS BILICO                       1
+        2660         MB ACTROSS MUELL LKW                    1
+        2662         CAMION + JEEP                           2
+        2744         BETONIERA MAN                           2
+        2745         CAMION CONTAINER+RUSPA                  2
+        2748         CAMION C/SILOS MAN                      1
+        2749         MAN TRASPORTO BESTIAME C/1 MUCCA        3
+        2754         AUTOGRU MAN                             2
+        2761         CAMION MAN NETTEZZA URBANA              1
+        2762         MAN REAR LOADING GARBAGE TRUCK          2
+        2764         CAMION MAN NETTEZZA URBANA              1
+        2765         CAMION MAN LKW                          1
+        2766         TRASPORTO 2 CONTAINER C/GRU             2
+        2771         CAMION POMPIERI MAN C/LUCI E SUONI      3
+        2921         JEEP WRANGLER C/RIM.TRASP.1 CAVALLO     1
+        2404         RUSPA LIEBHER                           2
+

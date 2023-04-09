@@ -1,0 +1,8 @@
+SELECT *;
+ FROM Arkivio;
+ WHERE Arkivio.progsca > 0;
+   AND Arkivio.giacont > 0;
+   AND Arkivio.costo > 5000;
+   AND Arkivio.progcar = 0;
+ ORDER BY Arkivio.codistr;
+ INTO TABLE \fox\ven96.dbf

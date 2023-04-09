@@ -1,0 +1,29 @@
+* TOTALI.CMD
+clea
+SET TALK OFF
+RELEASE ALL
+USE INV09D
+SUM PREZZO*QUANTITA FOR GRUPPO=1 TO VAR_51
+@  2, 0 SAY "--------------------------------------------------------------------------------"
+@  6,11 SAY "TOTALE DEL GRUPPO 1 ="
+@  6,33 SAY VAR_51
+SUM PREZZO*QUANTITA FOR GRUPPO=2 TO VAR_52
+@  9,11 SAY "TOTALE DEL GRUPPO 2 ="
+@  9,33 SAY VAR_52
+@ 12,11 SAY "TOTALE DEL GRUPPO 3 ="
+SUM PREZZO*QUANTITA FOR GRUPPO=3 TO VAR_53
+@ 12,33 SAY VAR_53
+@ 15,14 SAY "TOTALE GENERALE  ="
+SUM PREZZO * QUANTITA TO VAR_50
+@ 15,33 SAY VAR_50
+@ 19, 0 SAY "--------------------------------------------------------------------------------"
+SAVE TO VARTOT
+RELEASE ALL
+STORE 0 TO risposta
+@ 20, 0 SAY "BATTI 1 PER SPEGNERE"
+do case
+CASE RISPOSTA= 1
+DO MEN1
+ENDCASE
+RETURNç
+
